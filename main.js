@@ -1,5 +1,5 @@
 import './style.css';
-import './data-service';
+import {DataService} from './data-service';
 
 console.log('ciao');
 
